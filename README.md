@@ -14,7 +14,6 @@ Su objetivo es promover el turismo local y sostenible en Arequipa, ofreciendo un
 - **React Native** – Framework para desarrollo móvil nativo.
 - **Expo** – Herramienta para compilar y ejecutar la app.
 - **JavaScript (ES6+)** – Lógica interna y manejo de estados.
-- **AsyncStorage** – Almacenamiento local para modo offline.
 - **React Navigation** – Sistema de navegación entre pantallas.
 
 ### Backend / Servicios
