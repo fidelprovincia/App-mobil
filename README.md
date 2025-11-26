@@ -62,7 +62,7 @@ Su objetivo es promover el turismo local y sostenible en Arequipa, ofreciendo un
 ### 3.8. Interfaz intuitiva y moderna
 - Diseño limpio y adaptable.
 - Navegación simple.
-- Compatible con Android y iOS.
+- Compatible con Android y iOS(mas adelante).
 
 ---
 
