@@ -1,4 +1,3 @@
-# App-mobil
 # WildRoots – Aplicación Móvil de Turismo Regional – Arequipa, Perú
 
 ## 1. Descripción General
@@ -106,5 +105,3 @@ Su objetivo es promover el turismo local y sostenible en Arequipa, ofreciendo un
    Código modular basado en componentes reutilizables.
 
 ---
-
-## 6. Arquitectura General
