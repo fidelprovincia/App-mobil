@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wildroots/static/css/main.30ebd5b1.css",
+    "main.js": "/wildroots/static/js/main.8a3bea52.js",
+    "static/media/camana.jpg": "/wildroots/static/media/camana.2e9082360a6cd5d0795c.jpg",
+    "static/media/caylloma.jpeg": "/wildroots/static/media/caylloma.88b6426422253cc4bc97.jpeg",
+    "static/media/explorar.jpeg": "/wildroots/static/media/explorar.1751e6aaebfa5f52af7a.jpeg",
+    "static/media/principal.jpeg": "/wildroots/static/media/principal.8e2633747c77f47e8efa.jpeg",
+    "static/media/caraveli.jpeg": "/wildroots/static/media/caraveli.44164995a52955ab28c1.jpeg",
+    "static/media/arequipa.jpeg": "/wildroots/static/media/arequipa.a159c333cf2e83ec1954.jpeg",
+    "static/media/islay.jpg": "/wildroots/static/media/islay.6a3e35a07a939817545d.jpg",
+    "static/media/castilla.jpeg": "/wildroots/static/media/castilla.fd09f8df0259d9c47353.jpeg",
+    "static/media/logo.jpeg": "/wildroots/static/media/logo.c9a920651f153b9a763e.jpeg",
+    "static/media/la_union.jpeg": "/wildroots/static/media/la_union.d3acfa728e0b903d44b5.jpeg",
+    "index.html": "/wildroots/index.html",
+    "main.30ebd5b1.css.map": "/wildroots/static/css/main.30ebd5b1.css.map",
+    "main.8a3bea52.js.map": "/wildroots/static/js/main.8a3bea52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ebd5b1.css",
+    "static/js/main.8a3bea52.js"
+  ]
+}
